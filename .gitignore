@@ -1,0 +1,11 @@
+.DS_Store
+dist/*
+!dist/.gitkeep
+*.log
+*.pid
+*.pem
+*.p12
+*.mobileprovision
+.env
+.env.*
+!.env.example
